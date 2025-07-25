@@ -1,7 +1,6 @@
 # WAUU LMS - Python Dependencies
 # Install these packages for local deployment
 
-pip freeze > requirements.txt
 
 Flask==3.0.0
 Flask-SQLAlchemy==3.1.1
